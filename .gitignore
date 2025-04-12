@@ -1,4 +1,4 @@
-# Logs
+git remote add origin https://github.com/NovikovM18/vladicc.git# Logs
 logs
 *.log
 npm-debug.log*
